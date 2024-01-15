@@ -2,11 +2,11 @@
 
 ## Le projet :
 
-### Un site de réservation pour les professionnels, sans fonctionnalités parasites, sans tergiversation. Il fait une chose ... et il le fait bien
+Un site de réservation de prestations pour tout type de professionnels (coiffeurs, barbiers, masseurs, ongleristes), sans fonctionnalités parasites, sans tergiversation. Il fait une chose ... et il le fait bien
 
 ## Présentation
 
-### Il y a deux catégories d'utilisateurs, les professionnels qui présentent leurs services et offrent des créneaux de réservation à leurs clients, et les clients qui réservent un créneau proposé par le professionnel.
+Il y a deux catégories d'utilisateurs, les professionnels qui présentent leurs services et offrent des créneaux de réservation à leurs clients, et les clients qui réservent un créneau proposé par le professionnel.
 
 ## Wireframe
 
