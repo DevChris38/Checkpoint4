@@ -10,7 +10,11 @@ Il y a deux catégories d'utilisateurs, les professionnels qui présentent leurs
 
 ## Wireframe
 
-![image](https://github.com/DevChris38/Checkpoint4/assets/124736625/c915cad7-da03-4d09-9c71-84dd9e023f8a)
+![Capture d'écran 2024-01-22 104020](https://github.com/DevChris38/Checkpoint4/assets/124736625/b1094b89-f750-457b-95f6-3f2483d6c5b1)
+
+
+![Capture d'écran 2024-01-22 103928](https://github.com/DevChris38/Checkpoint4/assets/124736625/a68ea48b-e28e-41c5-bb60-7780a04c5246)
+
 
 ## MCD
 
