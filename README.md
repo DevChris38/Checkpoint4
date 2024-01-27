@@ -15,6 +15,17 @@ Il y a deux catégories d'utilisateurs, les professionnels qui présentent leurs
 
 ![Capture d'écran 2024-01-22 103928](https://github.com/DevChris38/Checkpoint4/assets/124736625/a68ea48b-e28e-41c5-bb60-7780a04c5246)
 
+## Maquette
+
+![Capture d'écran 2024-01-27 151601](https://github.com/DevChris38/Checkpoint4/assets/124736625/ec5fc43e-0b22-4936-83bf-395163824e02)
+
+(lien vers le figma :)[https://www.figma.com/file/bMIoC9BPvPDwV7aYwH08OW/Reservo?type=design&node-id=0%3A1&mode=design&t=5xHfpPS3mvjROCiR-1]
+
+## Prototype
+
+
+https://github.com/DevChris38/Checkpoint4/assets/124736625/3cc971fd-019d-42af-8c30-c03b64bf65c8
+
 
 ## MCD
 
@@ -28,3 +39,6 @@ Il y a deux catégories d'utilisateurs, les professionnels qui présentent leurs
 
 ![MPD](https://github.com/DevChris38/Checkpoint4/assets/124736625/d3465310-5e8f-4a77-80eb-328c396ec390)
 
+# Trello
+
+Pour organiser mon travail j'ai créé des User stories, regroupées dans un tableau Trello : (ICI) [https://trello.com/invite/b/2nzzbnMv/ATTI9326782f6d414cfd7c53eb2034e391f97BB86BE1/reservo]
