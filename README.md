@@ -29,15 +29,22 @@ https://github.com/DevChris38/Checkpoint4/assets/124736625/3cc971fd-019d-42af-8c
 
 ## MCD
 
-![Capture d'écran 2024-01-27 151412](https://github.com/DevChris38/Checkpoint4/assets/124736625/d22f469f-c753-4468-836e-8e1efa748dac)
+
+![Capture d'écran 2024-01-30 084247](https://github.com/DevChris38/Checkpoint4/assets/124736625/c827b25e-80b8-4158-b9b5-630558cc447a)
+
 
 ## MLD
 
-![Capture d'écran 2024-01-27 151401](https://github.com/DevChris38/Checkpoint4/assets/124736625/aab916e9-f3da-4ec6-885e-318909c9ba31)
+
+![Capture d'écran 2024-01-30 084330](https://github.com/DevChris38/Checkpoint4/assets/124736625/bf39d2e1-4eb8-4a0d-9295-c4997e39d332)
+
 
 ## MPD
 
-![MPD](https://github.com/DevChris38/Checkpoint4/assets/124736625/d3465310-5e8f-4a77-80eb-328c396ec390)
+La présentation du MPD est un peu bizarre, mais je n'arrive pas à faire mieux avec MySQL Workbench. Après toutes les infos sont là.
+
+![MLD](https://github.com/DevChris38/Checkpoint4/assets/124736625/06f68e1c-4b1e-4a6f-9f0f-fb1e49142f4f)
+
 
 # Trello
 
