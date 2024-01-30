@@ -17,7 +17,7 @@ Il y a deux catégories d'utilisateurs, les professionnels qui présentent leurs
 
 ## Maquette
 
-![Capture d'écran 2024-01-27 151601](https://github.com/DevChris38/Checkpoint4/assets/124736625/ec5fc43e-0b22-4936-83bf-395163824e02)
+![image](https://github.com/DevChris38/Checkpoint4/assets/124736625/ee4d4376-7474-4965-9742-8aefb00646c0)
 
 (lien vers le figma :)[https://www.figma.com/file/bMIoC9BPvPDwV7aYwH08OW/Reservo?type=design&node-id=0%3A1&mode=design&t=5xHfpPS3mvjROCiR-1]
 
