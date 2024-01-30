@@ -41,7 +41,6 @@ https://github.com/DevChris38/Checkpoint4/assets/124736625/3cc971fd-019d-42af-8c
 
 ## MPD
 
-La présentation du MPD est un peu bizarre, mais je n'arrive pas à faire mieux avec MySQL Workbench. Après toutes les infos sont là.
 
 ![MLD](https://github.com/DevChris38/Checkpoint4/assets/124736625/06f68e1c-4b1e-4a6f-9f0f-fb1e49142f4f)
 
